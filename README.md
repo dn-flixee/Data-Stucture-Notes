@@ -7,7 +7,6 @@
 
 ## Array
 
----
 
 - It is a collection of similar data items stored at contiguous memory locations and elements can be accessed randomly using indices of an array.
 - Example :-
