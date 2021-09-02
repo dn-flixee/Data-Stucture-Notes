@@ -1,7 +1,6 @@
 
 # Data Structure
 
----
 
 - A **Data Structure** is a particular way of organizing data in a computer so that it can be used effectively. For example, we can store a list of items having the same data-type using the array data structure.
 - A **Data Structure** is a named group of data of different data types which can be processed as a single unit. A data structure has well-defined operations, behaviour and properties.
